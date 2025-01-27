@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Harshit457&theme=dark&no-frame=true&title=MultiPullRequest,Commit,Repositories,Stars)
 
 <!--
 **Harshit457/Harshit457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
