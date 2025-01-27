@@ -65,7 +65,7 @@ I am a passionate web and blockchain developer, open-source contributor, and an 
 
 ---
 ### 📄 Resume:
-You can view my detailed resume [here]([link_to_resume](https://drive.google.com/file/d/1jsUkCCu4OtC8jq3ZzOqSiX9FnegsDBEx/view?usp=sharing )).
+You can view my detailed resume [here](https://drive.google.com/file/d/1jsUkCCu4OtC8jq3ZzOqSiX9FnegsDBEx/view?usp=sharing ).
 
 ---
 
