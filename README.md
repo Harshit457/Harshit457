@@ -40,8 +40,9 @@ I am a passionate web and blockchain developer, open-source contributor, and an 
 
 ---
 
-### 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harshit457&theme=dark&no-frame=true&title=MultiPullRequest,Commit,Repositories,Stars)
+### 🏆 GitHub Trophies:  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Harshit457&theme=dark&no-frame=true&title=MultiPullRequest,Commit,Repositories,Stars,Issues,Followers,All)
+
 
 ---
 
