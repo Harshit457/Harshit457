@@ -50,7 +50,6 @@ I am a passionate web and blockchain developer, open-source contributor, and an 
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blue?style=flat&logo=github)](https://hacktoberfest.digitalocean.com/)
 [![Top Langs](https://img.shields.io/badge/Top%20Languages-%20React-%2361DAFB?style=flat&logo=react&logoColor=black)](https://github.com/harshit)
 [![GitHub Issues](https://img.shields.io/badge/Issues%20Opened-50%2B-yellowgreen)](https://github.com/harshit)
-[![GitHub Stars](https://img.shields.io/badge/Stars%20Received-100%2B-yellow)](https://github.com/harshit)
 [![Visitors](https://badges.pufler.dev/visits/harshit/harshit)](https://github.com/harshit)
 
 ---
