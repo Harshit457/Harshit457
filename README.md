@@ -101,9 +101,6 @@ I'm a web & blockchain developer who enjoys turning ideas into working products 
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Harshit457&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
-<p align="center">
-  <i>💡 Click the joke badge above — it reshuffles a new one-liner on every refresh.</i>
-</p>
 
 ---
 
