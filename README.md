@@ -127,16 +127,3 @@ I'm a web & blockchain developer who enjoys turning ideas into working products 
 
 <p align="center"><i>⭐ Feel free to check out my pinned repositories below!</i></p>
 
----
-
-### ⚙️ Setup Instructions (for the Snake + 3D Graph)
-
-These two widgets render a real, animated version of your contribution graph — but GitHub needs a small Action running in **this exact repo** (a repo named `Harshit457/Harshit457`, i.e. same as your username) to generate the image first.
-
-1. In this repo, create the file `.github/workflows/snake.yml` — I've generated it for you, see the attached `snake.yml`.
-2. Commit & push it. Go to the **Actions** tab → the workflow will run automatically (or trigger it manually via "Run workflow").
-3. It'll create a new branch called `output` containing the generated SVGs — the image links in this README already point there, so once it runs once, the snake will just appear.
-4. For the 3D graph, same idea — I've included `3d-contrib.yml` as well. It commits the SVG straight to a `profile-3d-contrib/` folder on your `main` branch.
-5. **Optional — WakaTime:** if you want the live coding-activity stat, install the [WakaTime extension](https://wakatime.com/) for your editor, then it'll auto-populate after a few days of tracked coding.
-
-That's it — once the Actions run once, everything updates itself automatically, forever, with zero maintenance.
