@@ -72,7 +72,7 @@ I'm a web & blockchain developer who enjoys turning ideas into working products 
   <img src="https://raw.githubusercontent.com/Harshit457/Harshit457/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ⚙️ **One-time setup needed** — this snake animates your real contribution graph, but GitHub won't generate it until you add a small Action. See the **"Setup Instructions"** section at the bottom — takes 2 minutes.
+
 
 ---
 
@@ -82,7 +82,7 @@ I'm a web & blockchain developer who enjoys turning ideas into working products 
   <img src="https://raw.githubusercontent.com/Harshit457/Harshit457/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
-> ⚙️ Also needs the same kind of Action — instructions below.
+
 
 ---
 
