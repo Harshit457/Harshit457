@@ -22,11 +22,10 @@
 
 I'm a web & blockchain developer who enjoys turning ideas into working products — from **frontend-heavy CRM/dashboard modules** built pixel-perfect to Figma designs, to **Solidity/Web3** smart contracts, to fully interactive **Three.js 3D experiences** (yes, I've mapped a Vastu-compliant duplex floor plan into a browser-based 3D walkthrough — guided tours, room highlighting, compass rose and all). I like projects that sit at the intersection of engineering and design.
 
-- 🔭 Currently working on frontend architecture & CRM pipeline modules, plus 3D web visualizations
-- 🌱 Exploring React Native and deeper Web3 tooling
+- 🌱 Exploring deeper Web3 tooling
 - 🎯 Interested in the overlap of **design systems, real-time 3D on the web, and blockchain**
-- 💬 Ask me about React, Three.js, Solidity, or Node.js
-- ⚡ Fun fact: I bring architecture/design sensibility (Vastu Shastra, spatial planning) into my dev work
+- 💬 Ask me about React, Solidity, or Node.js
+- ⚡ Fun fact: I bring architecture/design sensibility into my dev work
 
 ---
 
