@@ -12,6 +12,10 @@
   <a href="https://drive.google.com/file/d/1cfIbLrqywxu64lF6D_9xmgk4k-DK6PZB/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="450">
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -63,6 +67,47 @@ I'm a web & blockchain developer who enjoys turning ideas into working products 
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harshit457/Harshit457/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚙️ **One-time setup needed** — this snake animates your real contribution graph, but GitHub won't generate it until you add a small Action. See the **"Setup Instructions"** section at the bottom — takes 2 minutes.
+
+---
+
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harshit457/Harshit457/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+> ⚙️ Also needs the same kind of Action — instructions below.
+
+---
+
+### 🎮 Fun Zone
+
+<p align="center">
+  <a href="https://github.com/Harshit457"><img src="https://readme-jokes.vercel.app/api" alt="Random dev joke" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Live "currently coding" status via WakaTime — optional, see setup below -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Harshit457&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <i>💡 Click the joke badge above — it reshuffles a new one-liner on every refresh.</i>
+</p>
+
+---
+
 ### 🏅 Badges
 
 <p align="center">
@@ -81,3 +126,17 @@ I'm a web & blockchain developer who enjoys turning ideas into working products 
 </p>
 
 <p align="center"><i>⭐ Feel free to check out my pinned repositories below!</i></p>
+
+---
+
+### ⚙️ Setup Instructions (for the Snake + 3D Graph)
+
+These two widgets render a real, animated version of your contribution graph — but GitHub needs a small Action running in **this exact repo** (a repo named `Harshit457/Harshit457`, i.e. same as your username) to generate the image first.
+
+1. In this repo, create the file `.github/workflows/snake.yml` — I've generated it for you, see the attached `snake.yml`.
+2. Commit & push it. Go to the **Actions** tab → the workflow will run automatically (or trigger it manually via "Run workflow").
+3. It'll create a new branch called `output` containing the generated SVGs — the image links in this README already point there, so once it runs once, the snake will just appear.
+4. For the 3D graph, same idea — I've included `3d-contrib.yml` as well. It commits the SVG straight to a `profile-3d-contrib/` folder on your `main` branch.
+5. **Optional — WakaTime:** if you want the live coding-activity stat, install the [WakaTime extension](https://wakatime.com/) for your editor, then it'll auto-populate after a few days of tracked coding.
+
+That's it — once the Actions run once, everything updates itself automatically, forever, with zero maintenance.
