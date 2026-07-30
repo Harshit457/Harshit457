@@ -1,74 +1,83 @@
-# Hi, I'm Harshit! 👋
+<h1 align="center">Hi, I'm Harshit 👋</h1>
 
-I am a passionate web and blockchain developer, open-source contributor, and an enthusiast in learning new technologies. I specialize in the MERN stack and am deeply involved in blockchain development using Solidity and Web3.js. I strive to create innovative and impactful applications while contributing to the open-source community.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+%2F+MERN+Developer;Blockchain+%26+Web3+Enthusiast;Building+Interactive+3D+Web+Experiences;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
----
-
-
-
-### 📚 Tech Stack:
-
-![Tech Stack](https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react&logoColor=black)
-![Tech Stack](https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/Database-MongoDB-yellow?style=flat&logo=mongodb&logoColor=black)
-![Tech Stack](https://img.shields.io/badge/Blockchain-Solidity-blue?style=flat&logo=ethereum&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/Tools-Docker-gray?style=flat&logo=docker&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/CI/CD-GitHub%20Actions-yellow?style=flat&logo=github&logoColor=black)
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-saini-b855b6296/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saini457harshit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1cfIbLrqywxu64lF6D_9xmgk4k-DK6PZB/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+</p>
 
 ---
 
-### 👨‍💻 Technologies & Tools:
-- **Frontend**: React, JavaScript, HTML, CSS
-- **Backend**: Node.js, Express, MongoDB
-- **Blockchain**: Solidity, Web3.js
-- **Tools**: Git, Docker, CI/CD
+### 🚀 About Me
+
+I'm a web & blockchain developer who enjoys turning ideas into working products — from **frontend-heavy CRM/dashboard modules** built pixel-perfect to Figma designs, to **Solidity/Web3** smart contracts, to fully interactive **Three.js 3D experiences** (yes, I've mapped a Vastu-compliant duplex floor plan into a browser-based 3D walkthrough — guided tours, room highlighting, compass rose and all). I like projects that sit at the intersection of engineering and design.
+
+- 🔭 Currently working on frontend architecture & CRM pipeline modules, plus 3D web visualizations
+- 🌱 Exploring React Native and deeper Web3 tooling
+- 🎯 Interested in the overlap of **design systems, real-time 3D on the web, and blockchain**
+- 💬 Ask me about React, Three.js, Solidity, or Node.js
+- ⚡ Fun fact: I bring architecture/design sensibility (Vastu Shastra, spatial planning) into my dev work
 
 ---
 
-### 🌍 GitHub Stats:
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit457&show_icons=true&theme=radical)
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,threejs,nodejs,express,mongodb,solidity,git,docker,figma,vscode&theme=dark" />
+</p>
+
+| Category | Stack |
+|---|---|
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, TailwindCSS |
+| **3D / Visualization** | Three.js, WebGL |
+| **Backend** | Node.js, Express, MongoDB |
+| **Blockchain** | Solidity, Web3.js, Ethereum |
+| **Tools & DevOps** | Git, Docker, GitHub Actions, Figma |
 
 ---
 
-### 🌍 Languages Used:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit457&layout=compact&theme=radical)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshit457&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit457&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit457&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshit457&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit457&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-### 🔥 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshit457)
+### 🏅 Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Harshit457&style=flat&color=blue&label=Profile+Views" />
+</p>
 
 ---
 
-### 🏆 GitHub Trophies:  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harshit457&theme=dark&no-frame=true&title=MultiPullRequest,Commit,Repositories,Stars,Issues,Followers,All)
+### 📫 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-saini-b855b6296/"><img src="https://img.shields.io/badge/-Harshit%20Saini-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saini457harshit@gmail.com"><img src="https://img.shields.io/badge/-saini457harshit@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
----
-
-### 🏆 Achievements & Badges:
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blue?style=flat&logo=github)](https://hacktoberfest.digitalocean.com/)
-[![Top Langs](https://img.shields.io/badge/Top%20Languages-%20React-%2361DAFB?style=flat&logo=react&logoColor=black)](https://github.com/harshit)
-[![GitHub Issues](https://img.shields.io/badge/Issues%20Opened-50%2B-yellowgreen)](https://github.com/harshit)
-[![Visitors](https://badges.pufler.dev/visits/harshit/harshit)](https://github.com/harshit)
-
----
-
-### 🌱 I’m currently learning React Native and exploring blockchain technologies!
-
----
-
-### 📫 How to reach me:
-- **Email**: [saini457harshit@gmail.com](mailto:saini457harshit@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/harshit-saini-b855b6296/)
-
-
----
-### 📄 Resume:
-You can view my detailed resume [here](https://drive.google.com/file/d/1cfIbLrqywxu64lF6D_9xmgk4k-DK6PZB/view?usp=sharing).
-
----
-
-### 🚀 Check out my repositories below:
-
-
+<p align="center"><i>⭐ Feel free to check out my pinned repositories below!</i></p>
